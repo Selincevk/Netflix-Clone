@@ -1,4 +1,1 @@
-# proje
-# Netflix-Clone
-# Netflix-Clone
-# Netflix-Clone
+# netflix-clone
